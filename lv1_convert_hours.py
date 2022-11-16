@@ -3,9 +3,6 @@
 ###########################################
 
 
-# POINTS ==> 1
-
-
 # INSTRUCTIONS:
 
 # Write a function that takes a number of hours as input and

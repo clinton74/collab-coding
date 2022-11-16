@@ -3,9 +3,6 @@
 ##############################
 
 
-# POINTS ==> 1
-
-
 # INSTRUCTIONS:
 
 # Write a function that takes a number as input and prints out
@@ -23,4 +20,3 @@
 # 2324823948732987378928
 # Output:
 # Even
-

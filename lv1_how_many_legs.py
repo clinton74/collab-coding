@@ -3,9 +3,6 @@
 ################################
 
 
-# POINTS ==> 1
-
-
 # INSTRUCTIONS:
 
 # A farmer raises chickens, sheep, cows, and fish
@@ -18,4 +15,3 @@
 
 # If the farmer has 2 chickens, 0 sheep, 5 cows and 15 fish,
 # the function should return 24
-
