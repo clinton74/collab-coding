@@ -6,7 +6,7 @@
 # INSTRUCTIONS:
 
 # Don't have someone to play rock paper scissors with?
-# Make a program where you play rock paper scissors agains the computer
+# Make a program where you play rock paper scissors against the computer
 # The rules are simple, both players pick 1 of three options: rock, paper or scissors
 # Rock beats scissors, scissors beats paper, and paper beats rock.
 # If the two pick the same one, it's a tie game.
